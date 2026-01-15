@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Forgot Password</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Reset Password</h2>
+
+<div class="box">
+<input id="fuser" placeholder="Enter Username">
+<button type="button" id="otpBtn">Send OTP</button>
+
+<p id="info"></p>
+
+<div id="otpBox" style="display:none;">
+<input id="otp" placeholder="Enter OTP">
+<input id="newpass" type="password" placeholder="New Password">
+<input id="confpass" type="password" placeholder="Confirm Password">
+<button type="button" id="verifyBtn">Verify & Reset</button>
+</div>
+
+<p id="fmsg"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
