@@ -3,8 +3,6 @@
 This is a **team-based web application project** developed collaboratively.  
 I contributed as the **Frontend Developer**, focusing on UI design and client-side functionality.
 
----
-
 ## 👥 Team Contribution
 - **Frontend (My Role):**
   - Designed responsive UI
@@ -19,15 +17,11 @@ I contributed as the **Frontend Developer**, focusing on UI design and client-si
   - Server-side logic  
   *(Handled by other team members)*
 
----
-
 ## 🚀 Features
 - Responsive user interface  
 - Smooth navigation  
 - Interactive components  
 - Clean and modern design  
-
----
 
 ## 🛠 Tech Stack
 ### Frontend
@@ -39,6 +33,4 @@ I contributed as the **Frontend Developer**, focusing on UI design and client-si
 ### Backend
 - Node.js / Python / Java (Team members)
 
----
 
-## 📂 Project Structure
