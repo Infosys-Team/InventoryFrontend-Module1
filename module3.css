@@ -1,0 +1,54 @@
+body{
+font-family:Arial;
+background:#f4f6f9;
+}
+
+h2{
+text-align:center;
+color:#1e3c72;
+margin-top:20px;
+}
+
+.box{
+background:white;
+width:85%;
+margin:30px auto;
+padding:25px;
+border-radius:10px;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+button{
+background:#1e3c72;
+color:white;
+border:none;
+padding:10px 20px;
+border-radius:5px;
+cursor:pointer;
+margin-bottom:15px;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+}
+
+th,td{
+border:1px solid #ddd;
+padding:12px;
+text-align:center;
+}
+
+th{
+background:#1e3c72;
+color:white;
+}
+
+/* Status */
+.read{color:green;font-weight:bold;}
+.unread{color:red;font-weight:bold;}
+
+/* Alert Type Colors */
+.low{color:orange;font-weight:bold;}
+.expiry{color:#ff9800;font-weight:bold;}
+.critical{color:red;font-weight:bold;}
